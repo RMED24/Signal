@@ -1,0 +1,3 @@
+# Signal
+
+For several reasons, the details of the project are intentionally unanswered. If you know, you know...
